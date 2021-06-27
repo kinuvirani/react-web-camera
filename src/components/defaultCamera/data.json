@@ -1,0 +1,98 @@
+[
+    {
+      "name":"person",
+      "value":"How are you? , I am in pain, I need to go out"
+    },
+    {
+       "name":"cup",
+       "value":"Could I have a water please? Could you make me a tea?"
+    },
+    {
+        "name":"restroom",
+       "value":"Could you help to go to the restroom?"
+    },
+    {
+        "name":"gog",
+        "value":"Could you play with the dog?"
+    },
+    {
+        "name":"cat",
+        "value":"Could you play with the Cat?"
+    },
+    {
+        "name":"apple",
+        "value":"Could you give me some Fruits?"
+    },
+    {
+        "name":"orange",
+        "value":"Could you give me some Fruits?"
+    },
+    {
+        "name":"banana",
+        "value":"Could you give me some Fruits?"
+    },
+    {
+        "name":"kitchen",
+        "value":"Could I check the Kitchen?"   
+    },
+    {
+        "name":"bedroom",
+        "value":"I need to got to bed. I need to sleep"   
+    },
+    {
+        "name":"elevator",
+        "value":"Could open the Elevator?"
+    },
+    {
+        "name":"laptop",
+        "value":"Could you get your labtop?"
+    },
+    {
+        "name":"medicine",
+        "value":"Could you give me my Medicine?"
+    },
+    {
+        "name":"chocolate",
+        "value":"I want a piece of Chocolate"
+    },
+    {
+        "name":"window",
+        "value":"Could open the window please?"
+    },
+    {
+        "name":"window curtains",
+        "value":"Could you open the window curtains?"
+    },
+    {
+        "name":"chair",
+        "value":"Have a seat please"
+    },
+    {
+        "name":"couch",
+        "value":"Have a seat please, relax in the couch"
+    },
+    {
+        "name":"sandwich",
+        "value":"Could you make me my favorite sandwich?"
+    },
+    {
+        "name":"juice",
+        "value":"I want my favorite juice. Could you get me a smoothie?"
+    },
+    {
+        "name":"ice Cream",
+        "value":"I need my ice cream"
+    },
+    {
+        "name":"kid",
+        "value":"Could you play with me?"
+    },
+    {
+        "name":"table",
+        "value":"Could move me to the desk? / could you check the table?"
+    },
+    {
+        "name":"fridge",
+        "value":"Could you tell me what is in the fridge?"
+    }
+]

@@ -1,0 +1,30 @@
+input {
+    width: 30%;
+    height: 100px;
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    box-sizing: border-box;
+  }
+  
+  .simple-keyboard {
+    max-width: 650px;
+  }
+  
+  .hg-theme-default .hg-button {
+    box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.3);
+    height: 45px;
+    border-radius: 10px;
+    font-size: 25px;
+    box-sizing: border-box;
+    padding: 5px;
+    color: #919191;
+    font-weight: 600;
+    background: white;
+    border-bottom: 1px solid #b5b5b5;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }  
